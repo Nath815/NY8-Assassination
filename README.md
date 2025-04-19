@@ -1,3 +1,5 @@
+VERSION 0.0.1
+
 FR/FRANCE :
 
 NY8-Assassination est un script simple d'utilisation avec beaucoup de possibilité en therme de personnalisation. C'est un script d'assassinat comme dans gta online il vous suffi d'ales voir le pnj et de faire "ALT" pour lancer la mission il ne vous reste plus qu'a tuer tout les ennemies et récupérer la mallette (toujours avec "ALT") pour pouvoir toucher votre recommence. Le scripte est traduit en Français de base a vous de modifier désolée.
